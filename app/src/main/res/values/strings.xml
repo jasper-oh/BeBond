@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BeBond</string>
+    <string name="web_client_id">238659683785-92mg2vmduokt6221ki0hohbff1ffb3c8.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">3018074004998138</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">a4f38517ef1f2091e5b7107710181661</string>
+
+
 </resources>
